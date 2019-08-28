@@ -1,0 +1,23 @@
+{
+  "name": "figma-plugin-types",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kazushi Kawamura <wakaka2277@gmail.com>",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kawamurakazushi/figma-plugin-types.git"
+  },
+  "keywords": [
+    "figma"
+  ],
+  "bugs": {
+    "url": "https://github.com/kawamurakazushi/figma-plugin-types/issues"
+  },
+  "homepage": "https://github.com/kawamurakazushi/figma-plugin-types#readme"
+}
